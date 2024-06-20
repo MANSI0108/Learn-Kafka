@@ -8,13 +8,13 @@ This is the README file for the project.
 Welcome to the project! This README file provides an overview of the project and its purpose.
 
 ## Knowledge
- # Node.JS Intermediate level
- # Experience with designing distributed systems
+  Node.JS Intermediate level
+  Experience with designing distributed systems
 
 ## Tools
- # Node.js: Download Node.JS
- # Docker: Download Docker
- # VsCode: Download VSCode
+  Node.js: Download Node.JS
+  Docker: Download Docker
+  VsCode: Download VSCode
 
 ## commands
 
